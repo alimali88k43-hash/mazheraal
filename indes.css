@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+
+}
+.one{
+    margin-top: 100px;
+    padding: 40px;
+    border: 2px solid red;
+    position: absolute;
+    left: 50%;
+}
+.head{
+    font-size: xx-large;
+    color: rgb(95, 119, 106);
+    position: absolute;
+    left: 45%;
+}
+.headr{
+    color: blueviolet;
+    font-size: xx-large;
+    position: absolute;
+    left: 40%;
+}
